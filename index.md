@@ -14,6 +14,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 Fraud Detection Project
 
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
+
 ## Project 2
 
 Time series finance project 
